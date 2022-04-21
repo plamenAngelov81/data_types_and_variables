@@ -1,0 +1,11 @@
+string_1 = input()
+string_2 = input()
+string_3 = input()
+string_4 = input()
+string_5 = input()
+
+print(string_1)
+print(string_2)
+print(string_3)
+print(string_4)
+print(string_5)
